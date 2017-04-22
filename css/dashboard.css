@@ -1,0 +1,30 @@
+.latest-transactions {
+	padding-left: 5vw;
+	padding-bottom: 7vh;
+}
+
+.dash-module:first-child {
+	padding-left: 1vw;
+}
+
+.dash-module:last-child {
+	padding-right: 1vw;
+}
+
+.dash-module {
+	height: 25vh;
+	padding: 1vh;
+	color: #fff;
+	text-align: center;
+}
+
+.dash-module div {
+	height: 16vh;
+	margin: 1vh 0 1vh 0;
+	border-right: 2px solid #fff;
+	padding-top: 1vh;
+}
+
+.dash-module:last-child div {
+	border-right: none;
+}

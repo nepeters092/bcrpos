@@ -1,0 +1,47 @@
+#latest-title {
+	width: 90%;
+	margin: 0 auto;
+	height: 7vh;
+	line-height: 7vh;
+}
+
+#latest-title h4 {
+	margin-top: 3vh;
+}
+
+#latest-title .fa-stack {
+	margin-right: 7px;
+}
+
+#latest-title div:first-child {
+	float: left;
+}
+
+#latest-title div:nth-child(2) {
+	float: right;
+}
+
+#transaction-results {
+	margin-top: 0;
+	table-layout: fixed;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#transaction-results td {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+#transactions {
+	margin-top: 8px;
+}
+
+.search-transactions-body {
+	padding-top: 10px;
+}
+
+#tr-form-container {
+	padding-bottom: 20px;
+}

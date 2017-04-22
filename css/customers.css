@@ -1,0 +1,51 @@
+.cust-body table {
+	width: 90%;
+	margin: 0 auto;
+}
+
+/* Form properties */
+#cust-search-form {
+	width: 90%;
+	margin: 20px auto 0 auto;
+}
+
+#cust-search-form form {
+	float: left;
+}
+
+#cust-search-form .fa-stack {
+	float: right;
+}
+
+#cust-search-form input:first-child {
+	width: 25vw;
+}
+
+#customer-results {
+	margin-top: 5px;
+}
+
+.fa-circle {
+	color: #fff;
+}
+
+.fa-plus-circle {
+	color: #FF4081;
+	/* text-shadow: 0px 4px 10px rgba(0,0,0,0.25); */
+}
+
+.fa-plus-circle:hover {
+	color: #F50057;
+}
+
+/* Edit Customer */
+
+#editCustForm input {
+	width: 20vw;
+}
+
+.edit-customer-body {
+	
+	padding-top: 10px;
+	
+}

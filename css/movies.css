@@ -1,0 +1,71 @@
+.movie-body table {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.movie-body table td {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.movie-body table {
+	table-layout: fixed;
+	margin-top: 10px;
+}
+
+#movie-search-form {
+	width: 90%;
+	margin: 20px auto 0 auto;
+}
+
+#movie-search-form {
+	width: 90%;
+	margin: 20px auto 0 auto;
+}
+
+#movie-search-form input {
+	margin-top: 5px;
+}
+
+
+#movie-search-form form {
+	float: left;
+}
+
+#movie-search-form .fa-stack {
+	float: right;
+}
+
+#movie-search-form input:first-child {
+	width: 25vw;
+}
+
+#addMovie {
+	margin: 20px 20px;
+}
+
+/* Add movie */
+
+.actor-director-body {
+	padding-top: 10px;
+}
+
+/* Advanced Search */
+
+.advanced-search-body {
+	padding-top: 20px;
+}
+
+.advanced-search-body input {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.advanced-search-body select {
+	margin-bottom: 5px;
+}
+
+.advanced-search-body table {
+	table-layout: auto;
+}

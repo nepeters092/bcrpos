@@ -1,0 +1,109 @@
+.sale-body {
+	padding: 100px;
+}
+
+.sale-body a:hover {
+	text-decoration: none;
+}
+
+#sale-return div {
+	height: 20vh;
+	color: #fff;
+	font-size: 1.5em;
+}
+
+#sale-box {
+	background-color: #FF4081;
+	line-height: 20vh;
+	text-align: center;
+}
+
+#return-box {
+	background-color: #F50057;
+	line-height: 20vh;
+	text-align: center;
+}
+
+.sale-search-header {
+	height: 10vh;
+}
+
+#customer-search input {
+	float: left;
+	margin-top: 1vh;
+}
+
+#customer-search .fa-stack {
+	float: right;
+}
+
+#customer-search .fa-square {
+	color: #F50057;
+}
+
+#customer-search .fa-user-plus {
+	color: #fff	;
+}
+
+#sale-row {
+	height: 75vh;
+}
+
+#customer-search {
+	border-right: 1px solid #B8B8B8;
+	height: 75vh;
+}
+
+#basket {
+	background-color: #C0C0C0;
+	height: 40vh;
+	color: #000;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: -5px;
+}
+
+#movie-search form {
+	margin-bottom: 20px;
+}
+
+#movie-search input {
+	margin-top: .75vh;
+}
+
+/* Checkout */
+
+#cust-info {
+	background-color: #D8D8D8;
+	padding: 10px 0;
+}
+
+#cart-info {
+	padding-top: 10px;
+}
+
+#cart-info .col-xs-6 div {
+	float: left;
+	margin-right: 10px;
+}
+
+#cart-info div .row {
+	padding: 10px 30px 0 0;
+}
+
+#total {
+	font-weight: 700;
+	font-size: 1.3em;
+}
+
+#summary-cart {
+	background-color: #E0E0E0;
+}
+
+.pay-row p {
+	text-align: center;
+}
+
+.pay-row .col-xs-4:hover {
+	background-color: #F0F0F0;
+}

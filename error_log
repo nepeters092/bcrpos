@@ -1,0 +1,121 @@
+[19-Apr-2017 17:23:38 America/Chicago] PHP Warning:  require(../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/login.php on line 2
+[19-Apr-2017 17:23:38 America/Chicago] PHP Warning:  require(../smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/login.php on line 2
+[19-Apr-2017 17:23:38 America/Chicago] PHP Fatal error:  require(): Failed opening required '../smarty/libs/Smarty.class.php' (include_path='.:/opt/php56/lib/php') in /home4/nepeters092/bcr.nataliepeters.site/login.php on line 2
+[19-Apr-2017 17:25:23 America/Chicago] PHP Warning:  include(C:/wamp64/config.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:23 America/Chicago] PHP Warning:  include(C:/wamp64/config.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:23 America/Chicago] PHP Warning:  include(): Failed opening 'C:/wamp64/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php:5) in /home4/nepeters092/bcr.nataliepeters.site/session.php on line 2
+[19-Apr-2017 17:25:40 America/Chicago] PHP Warning:  include(C:/wamp64/config.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:40 America/Chicago] PHP Warning:  include(C:/wamp64/config.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:40 America/Chicago] PHP Warning:  include(): Failed opening 'C:/wamp64/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php:5) in /home4/nepeters092/bcr.nataliepeters.site/session.php on line 2
+[19-Apr-2017 17:25:41 America/Chicago] PHP Warning:  include(C:/wamp64/config.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:41 America/Chicago] PHP Warning:  include(C:/wamp64/config.php): failed to open stream: No such file or directory in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:41 America/Chicago] PHP Warning:  include(): Failed opening 'C:/wamp64/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php on line 5
+[19-Apr-2017 17:25:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/nepeters092/bcr.nataliepeters.site/resources/smarty/smartyHeader.php:5) in /home4/nepeters092/bcr.nataliepeters.site/session.php on line 2
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/employees.php on line 101
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/employees.php on line 107
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/employees.php on line 121
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'employee_id' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 64
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'last_name' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 66
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'first_name' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 68
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'street_address' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 70
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'city' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 72
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'state' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 74
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'zip' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 76
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'email' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 78
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'phone' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 80
+[19-Apr-2017 19:49:24 America/Chicago] PHP Warning:  Illegal string offset 'employee_id' in /home4/nepeters092/bcr.nataliepeters.site/templates_c/15806f7108db2971084977692f1ca45eb3dea970_0.file.employees.tpl.php on line 82
+[19-Apr-2017 19:50:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/settings.php on line 87
+[19-Apr-2017 19:50:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/settings.php on line 87
+[19-Apr-2017 19:55:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/transactions.php on line 19
+[19-Apr-2017 19:55:55 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/transactions.php on line 24
+[19-Apr-2017 20:04:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/actor_director.php on line 106
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 45
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 47
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 107
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 108
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 113
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 114
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 119
+[19-Apr-2017 20:06:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 120
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 10
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 11
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 18
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 19
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 26
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 28
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 35
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 37
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 48
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 50
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 57
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 58
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 64
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 65
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 70
+[19-Apr-2017 21:27:28 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 71
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 45
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 47
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 107
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 108
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 113
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 114
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 119
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 120
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 45
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 47
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 107
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 108
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 113
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 114
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 119
+[19-Apr-2017 21:52:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 120
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 10
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 11
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 18
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 19
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 26
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 28
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 35
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 37
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 48
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 50
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 57
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 58
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 64
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 65
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 70
+[20-Apr-2017 08:51:52 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/dashboard.php on line 71
+[20-Apr-2017 09:04:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/nepeters092/bcr.nataliepeters.site/add_film.php on line 33
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 45
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 47
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 107
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 108
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 113
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 114
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 119
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 120
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 45
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 47
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 107
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 108
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 113
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 114
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 119
+[20-Apr-2017 10:22:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/select_film.php on line 120
+[20-Apr-2017 13:32:14 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/advanced_movie.php on line 64
+[20-Apr-2017 13:32:14 America/Chicago] PHP Warning:  mysqli_affected_rows(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/advanced_movie.php on line 66
+[20-Apr-2017 13:32:14 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/advanced_movie.php on line 78
+[20-Apr-2017 16:39:00 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/returns.php on line 16
+[20-Apr-2017 16:39:00 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/nepeters092/bcr.nataliepeters.site/returns.php on line 26
+[20-Apr-2017 16:39:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/nepeters092/bcr.nataliepeters.site/returns.php on line 28
+[21-Apr-2017 12:33:38 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/nepeters092/bcr.nataliepeters.site/forgot_password.php on line 49
+[21-Apr-2017 12:34:08 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/nepeters092/bcr.nataliepeters.site/forgot_password.php on line 49
+[21-Apr-2017 12:34:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/nepeters092/bcr.nataliepeters.site/forgot_password.php on line 49
+[21-Apr-2017 12:44:51 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/edit_employee.php on line 79
+[21-Apr-2017 12:44:56 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/edit_employee.php on line 79
+[21-Apr-2017 13:29:41 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/checkout.php on line 72
+[21-Apr-2017 13:29:41 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/checkout.php on line 72
+[21-Apr-2017 13:29:41 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/checkout.php on line 72
+[21-Apr-2017 13:29:41 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/nepeters092/bcr.nataliepeters.site/checkout.php on line 72

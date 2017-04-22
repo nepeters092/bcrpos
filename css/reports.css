@@ -1,0 +1,35 @@
+.report-body {
+	padding-top: 10px;
+}
+
+.revenue-report-container h4 {
+	margin-top: 10px;
+}
+
+#customer-revenue-results {
+	table-layout: auto;
+	width: 30%;
+	margin-bottom: 10px;
+}
+
+.report-body div {
+	height: 60px;
+	margin-bottom: 10px;
+	width: 250px;
+	line-height: 60px;
+	text-align: center;
+}
+
+.report-body div i {
+	float: left;
+	margin: 12px 0 0 15px;
+}
+
+.report-body div a {
+	color: #fff;
+	font-size: 1.2em;
+}
+
+.report-body div a:hover {
+	text-decoration: none;
+}

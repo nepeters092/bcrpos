@@ -1,0 +1,13 @@
+.emp-body table {
+	margin: 0 auto;
+	width: 90%;
+}
+
+#employee-search-form {
+	width: 90%;
+	margin: 20px auto 10px auto;
+}
+
+#employee-search-form input:first-child {
+	width: 25vw;
+}
