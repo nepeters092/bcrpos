@@ -32,6 +32,13 @@ if($_SERVER['REQUEST_METHOD'] == "POST") { // If search button is pressed
 		if(isset($_GET['pagenum'])) {
 			$pagenum = $_GET['pagenum'];
 		}
+		
+		$sql = 'SELECT * FROM employees';
+		$result = mysqli_query($connection,$sql);
+		while($row = mysqli_fetch_assoc($result)) {
+			$data[] = $row;
+			$id = $row['employee_id'];
+		}
 
 		// Counts and limits number of results
 		$rows = mysqli_num_rows($result);
@@ -46,7 +53,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST") { // If search button is pressed
 		$max = 'LIMIT '.($pagenum-1)*$page_rows .',' .$page_rows;
 
 		// Grabs SQL data with limit 
-		$sql = 'SELECT * FROM customers '.$max;
+		$sql = 'SELECT * FROM employees '.$max;
 		$result = mysqli_query($connection,$sql);
 		while($row = mysqli_fetch_assoc($result)) {
 			$data2[] = $row;
@@ -82,13 +89,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST") { // If search button is pressed
 			} 
 		} else { 
 			$msg = 'Your search yielded no results.';
-			
-			/* Allow rows to be sortable
-			$orderBy = array('id', 'last_name', 'first_name', 'street_address', 'city', 'state', 'zip', 'email', 'phone');
-			$order = 'customer_id';
-			if (isset($_GET['orderBy']) && in_array($_GET['orderBy'], $orderBy)) {
-				$order = $_GET['orderBy'];
-			} */
 
 			// Checks if page number is set
 			if(isset($_GET['pagenum'])) {
@@ -96,7 +96,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST") { // If search button is pressed
 			}
 
 			// Grab all customer data
-			$sql = 'SELECT * FROM employees ORDER BY '.$order;
+			$sql = 'SELECT * FROM employees';
 			$result = mysqli_query($connection,$sql);
 			while($row = mysqli_fetch_assoc($result)) {
 				$data[] = $row;
@@ -142,12 +142,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST") { // If search button is pressed
 	}
 	
 } else { // Default page view
-		/* Allow rows to be sortable
-		$orderBy = array('id', 'last_name', 'first_name', 'street_address', 'city', 'state', 'zip', 'email', 'phone');
-		$order = 'customer_id';
-		if (isset($_GET['orderBy']) && in_array($_GET['orderBy'], $orderBy)) {
-			$order = $_GET['orderBy'];
-		} */
 
 		// Checks if page number is set
 		if(isset($_GET['pagenum'])) {

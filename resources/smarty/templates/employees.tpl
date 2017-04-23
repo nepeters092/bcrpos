@@ -10,6 +10,7 @@
 					<input type="submit" name="submit" value="Search">
 					{$backButton}
 				</form>
+				{$msg}
 			</div>
 		
 			<table>
